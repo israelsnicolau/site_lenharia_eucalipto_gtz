@@ -15,7 +15,8 @@ Hospedado pela Hostinger
 
 #Como rodar:
 
-1 - Baixa a pasta inteira do arquivo
+1 - Baixa a pasta inteira do arquivo no GUTHUB só está o arquivo fonte, para rodar completo com as imagens acessar o link da pasta compactada no google drive: 
+https://drive.google.com/file/d/1rm2VgDp4sG16m1ARZPC2mL3KdM1bRoFS/view?usp=sharing
 
 2 - Abra "index.html" em qualquer navegador.
 
@@ -40,5 +41,6 @@ Hospedado pela Hostinger
 Email: israelsnicolau@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/israel-nicolau-183860273/
+
 
 GitHub: https://github.com/israelsnicolau
