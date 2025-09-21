@@ -1,0 +1,142 @@
+/* NAVBAR */
+.navbar {
+  background-image: url("imagens/fundo_navbar.png");
+  background-size: cover;
+  background-position: center;
+}
+.navbar h3{
+  color: greenyellow;
+  cursor: default;
+}
+.navbar h3:hover{
+  color: greenyellow;
+  cursor: default;}
+
+.navbar a{
+  color: white;
+  transition: color 0.3s;
+}
+.navbar a:hover{
+  color: greenyellow;
+  transition: color 0.3s;
+}
+.navbar button{
+  background-color: white;
+  transition: color 0.3s;
+}
+
+ /* TEXTO INICIO */
+ 
+.hero-text-only {
+  text-align: center;
+  padding: 100px 20px; /* espaço acima e abaixo */
+}
+
+.hero-text-only h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #28a745; /* verde principal */
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3); /* leve sombra para destacar */
+}
+
+.hero-text-only .btn {
+  margin-top: 30px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: #28a745; /* mesmo verde do texto */
+  color: white;
+  border: none;
+  transition: 0.3s;
+}
+
+.hero-text-only .btn:hover {
+  background-color: #218838; /* verde um pouco mais escuro no hover */
+  color: white;
+}
+
+  /* CARROSSEL */
+
+#carouselExample{
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+  /* IMAGEM FIXA */
+
+.img-fixed {
+    height: 360px;       
+    object-fit: cover;   
+  }
+/* APRESENTACAO */
+.txtCabecalho  {
+    text-align: center;
+}
+
+/* APRESENTACAO */
+.txtApresentacao {
+  border: 3px solid #28a745; 
+  padding: 20px 30px;         
+  display: inline-block;      
+  border-radius: 10px;        
+  color: black;             
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+}
+/* BOTAO WHATSAPP */
+.whats{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+/* BOTAO PEDIDO */
+.btPedido{
+  background-color: green;
+  color: white;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+ 
+}
+
+/* TEXTO BAIXO CARROSSEL */
+.txtEntrega{
+  text-align: center;
+  font-weight: bold;
+  display: block;
+}
+
+
+  /*MENU INFERIOR*/
+
+  .footer {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+    /* COR DE FUNDO */
+
+    background-color: green;
+
+    /* COR DO TEXTO */
+
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  /* TIRAR ASPECTO DE LINK DO TEXTO */
+
+  .footer a {
+    text-decoration: none;
+
+    color: inherit;
+
+  }
+
+
+ 
